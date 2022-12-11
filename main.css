@@ -1,0 +1,40 @@
+.navbar {
+    display: flex;
+    flex: 1;
+    justify-content: space-evenly;
+    border: 1px solid black;
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #fdfd44;
+    font-weight: bold;
+}
+
+body {
+    background-color: rgb(226, 199, 166);
+    font-size: 18px;
+    margin: 0px;
+}
+.container {
+    margin: 0px 15px;
+}
+.image-container {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.name {
+    color: purple;
+}
+
+.heading-content {
+    text-align: center;
+    color: rgb(33, 66, 213)
+}
+
+
+a{
+    color: black;
+}
+a:visited {
+    color: purple;
+}
